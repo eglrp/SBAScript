@@ -1,0 +1,64 @@
+﻿生成启动时间为 2015/1/23 11:11:17。
+     1>项目“D:\Users\Think\桌面\SBAtest\cvsbaV5\cvsbaV2\cvsbaV2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "cvsba-1.0.0\src\cvsba.cpp" mian.cpp temp.cpp
+         temp.cpp
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(215): warning C4458: “sz”的声明隐藏了类成员
+         d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(148): note: 参见“cv::_InputArray::sz”的声明
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\temp.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\temp.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+         mian.cpp
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(215): warning C4458: “sz”的声明隐藏了类成员
+         d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(148): note: 参见“cv::_InputArray::sz”的声明
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\features2d.hpp(800): warning C4458: “descriptors”的声明隐藏了类成员
+         d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\features2d.hpp(784): note: 参见“cv::BOWTrainer::descriptors”的声明
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.h(91): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.h(103): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+         cvsba.cpp
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(215): warning C4458: “sz”的声明隐藏了类成员
+         d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(148): note: 参见“cv::_InputArray::sz”的声明
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\core\mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\features2d.hpp(800): warning C4458: “descriptors”的声明隐藏了类成员
+         d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\include\opencv2\features2d.hpp(784): note: 参见“cv::BOWTrainer::descriptors”的声明
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.h(91): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.h(103): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(46): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(80): warning C4290: 忽略 C++ 异常规范，但指示函数不是 __declspec(nothrow)
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(435): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(436): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(437): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(439): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(441): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(442): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(444): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(445): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(447): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(449): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(450): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>d:\users\think\桌面\sbatest\cvsbav5\cvsbav2\cvsba-1.0.0\src\cvsba.cpp(451): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt "cvsba-1.0.0\src\sba_chkjac.c" "cvsba-1.0.0\src\sba_crsm.c" "cvsba-1.0.0\src\sba_lapack.c" "cvsba-1.0.0\src\sba_levmar.c" "cvsba-1.0.0\src\sba_levmar_wrap.c"
+         sba_levmar_wrap.c
+         sba_levmar.c
+         sba_lapack.c
+         sba_crsm.c
+         sba_chkjac.c
+         正在生成代码...
+       Link:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Think\桌面\SBAtest\cvsbaV5\Debug\cvsbaV2.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib opencv_calib3d300d.lib libblas.lib liblapack.lib liblapacke.lib kernel32.lib user32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Users\Think\桌面\SBAtest\cvsbaV5\Debug\cvsbaV2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Think\桌面\SBAtest\cvsbaV5\Debug\cvsbaV2.lib" /MACHINE:X86 Debug\cvsba.obj
+         Debug\sba_chkjac.obj
+         Debug\sba_crsm.obj
+         Debug\sba_lapack.obj
+         Debug\sba_levmar.obj
+         Debug\sba_levmar_wrap.obj
+         Debug\mian.obj
+         Debug\temp.obj
+         cvsbaV2.vcxproj -> D:\Users\Think\桌面\SBAtest\cvsbaV5\Debug\cvsbaV2.exe
+     1>已完成生成项目“D:\Users\Think\桌面\SBAtest\cvsbaV5\cvsbaV2\cvsbaV2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.84
